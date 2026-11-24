@@ -119,22 +119,17 @@ Through this project, I am developing practical experience in:
 - Applying subqueries and window functions.
 - Translating business questions into SQL queries.
 
-## 🚀 Project Status
+## Project Screenshots
 
-- [x] Database creation
-- [x] Table creation
-- [x] Sample data insertion
-- [x] Basic SQL analysis
-- [x] Intermediate SQL analysis
-- [x] Advanced SQL analysis
-- [ ] Query validation and result verification
-- [ ] Business insights documentation
-- [ ] Final project documentation
+### 1. Database Tables
+![Database Tables](Screenshots/database_tables.png)
 
-## 👨‍💻 Author
+### 2. Total Revenue Analysis
+![Total Revenue](Screenshots/total_revenue.png)
 
-**Amogh Roy S**
+### 3. Top 5 Best-Selling Products
+![Top 5 Products](Screenshots/top_5_products.png)
 
-Computer Science Engineering Graduate | Aspiring Data Analyst
+### 4. Monthly Revenue Analysis
+![Monthly Revenue](Screenshots/monthly_revenue.png)
 
-Interested in SQL, PostgreSQL, Data Analytics and Business Intelligence.
